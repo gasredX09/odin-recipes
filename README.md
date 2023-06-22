@@ -1,4 +1,4 @@
-# odin-recipes
+#Recipes Website
 
 Repo for building a basic recipe website using only HTML.<br>
 
